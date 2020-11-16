@@ -1,0 +1,5 @@
+SDL 2 project libraries needed 
+Music - Youtube, Nintendo
+Character textures - opengameart.org
+
+Made on the base of lazyfoo.net tutorials
